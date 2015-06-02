@@ -3,6 +3,7 @@
 	<name>testEventBus</name>
 	<comment></comment>
 	<projects>
+		<project>EventBus</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
